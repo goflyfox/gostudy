@@ -8,6 +8,9 @@ import (
 
 func main() {
 	// hello world
+	/**
+	hello world
+	*/
 	fmt.Println("hello world")
 
 	fmt.Println("##################### values")
@@ -24,6 +27,9 @@ func main() {
 
 	fmt.Println("##################### ifElse")
 	ifElse()
+
+	fmt.Println("##################### switchFunc")
+	switchFunc()
 }
 
 // 值

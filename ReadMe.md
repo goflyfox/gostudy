@@ -13,6 +13,11 @@ golang基础教程-快速入门go语言
 * [11.golang协程.md](doc/11.golang协程.md)
 * [12.golang常用函数.md](doc/12.golang常用函数.md)
 
+## 代码地址
+
+* github：[https://github.com/goflyfox/gostudy](https://github.com/goflyfox/gostudy)
+* gitee：[https://gitee.com/goflyfox/gostudy](https://gitee.com/goflyfox/gostudy)
+
 ## 教程视频
 
 教程地址：[golang基础教程-快速入门go语言](https://www.bilibili.com/video/av94410029)
